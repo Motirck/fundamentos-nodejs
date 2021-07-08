@@ -1,8 +1,8 @@
 {
-  "name": "fundamentals-nodejs",
+  "name": "nodejs-fundamentals",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Motirck/fundamentals-nodejs.git",
+  "repository": "https://github.com/Motirck/nodejs-fundamentals.git",
   "author": "Ricardo Alves Paula <ricardo.alves.p001@gmail.com>",
   "license": "MIT",
   "scripts": {
