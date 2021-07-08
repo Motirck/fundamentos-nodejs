@@ -1,5 +1,5 @@
-# NodeJS -Learning about the concepts
-Nodejs Basics
+# NodeJS - Learning about the concepts - Basic
+Learning about the routes and basics of NodeJS with Express finished.
 
 <br>
 
@@ -18,9 +18,6 @@ Nodejs Basics
 > yarn add express
 
 > yarn add nodemon -D (nodemon will make the server "listen" for any changes and automatically recompile the project and "--save-dev" will make the lib only exist in a Dev environment)
-
-
-
 
 
 ### Genral Tips
